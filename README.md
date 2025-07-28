@@ -1,4 +1,4 @@
-### Operation-System-Communication-Architecture
+### Operating-System-Communication-Architecture
 
 Implemented a two-way Inter-Process Communication
 Architecture between five different processes. 
